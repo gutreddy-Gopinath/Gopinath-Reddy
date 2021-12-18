@@ -1,4 +1,4 @@
-Hello , I am  Gopinath Reddy from Guntur - India.
+#Hello , I am  Gopinath Reddy from Guntur - India.
 
 - Currently pursuing my master's at UCM and working as Team Lead at Mixed Reality Lab at UCM.
 
